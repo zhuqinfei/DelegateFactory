@@ -1,0 +1,7 @@
+D:\c#练习项目\DelegateFactory\DelegateFactory\bin\Debug\DelegateFactory.exe.config
+D:\c#练习项目\DelegateFactory\DelegateFactory\bin\Debug\DelegateFactory.exe
+D:\c#练习项目\DelegateFactory\DelegateFactory\bin\Debug\DelegateFactory.pdb
+D:\c#练习项目\DelegateFactory\DelegateFactory\obj\Debug\DelegateFactory.csproj.AssemblyReference.cache
+D:\c#练习项目\DelegateFactory\DelegateFactory\obj\Debug\DelegateFactory.csproj.CoreCompileInputs.cache
+D:\c#练习项目\DelegateFactory\DelegateFactory\obj\Debug\DelegateFactory.exe
+D:\c#练习项目\DelegateFactory\DelegateFactory\obj\Debug\DelegateFactory.pdb
